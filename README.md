@@ -1,4 +1,4 @@
-# Code of conduct for meetup
+# Code of conduct for our Come Cloud With Us user group meetups
 
 All attendees, speakers, sponsors and volunteers at our meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
